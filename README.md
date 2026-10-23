@@ -1,45 +1,39 @@
 # 🎓 Course Registration System
 
-A simple Python beginner project that allows students to view available courses and register for their courses.
+## About the Project
+The Course Registration System is a beginner-friendly Python project that allows students to view available courses, register for courses, and check their registration summary.
 
 ## Features
+- Enter student name
+- Display available courses
+- Register for a course
+- Prevent duplicate registrations
+- View registered courses
+- Display registration summary
+- Handle invalid inputs
 
-* Enter student name
-* View available courses
-* Register for a course
-* View registered courses
-* Exit the system
-
-## Courses
-
-* Python Programming
-* Engineering Mathematics
-* Material Physics
-* Engineering Graphics
+## Available Courses
+1. Python Programming
+2. Engineering Mathematics
+3. Material Physics
+4. Engineering Graphics
 
 ## Technologies Used
-
-* Python
+- Python
+- Lists
+- Loops
+- Conditional Statements
+- Exception Handling
 
 ## How to Run
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the Python file:
+   `python Course-Resistration-System.py`
 
-```bash
-python course-resistration-system.py
-```
-
-## Example
-
-```text
-==== COURSE REGISTRATION SYSTEM ====
-
-Enter student name: Riddhi
-
-1. Show Courses
-2. Register Course
-3. View Courses
-4. Exit
-```
+## Learning Outcomes
+This project helped me practice Python lists, loops, conditional statements, user input, and exception handling while building a simple menu-driven application.
 
 ## Author
-
 Riddhi Deshmukh
+
